@@ -2,4 +2,6 @@
     <string name="app_name">chapter02</string>
     <string name="height">신장</string>
     <string name="weight">체중</string>
+    <string name="bmiTitle">BMI :</string>
+    <string name="resultTitle">결과는 :</string>
 </resources>
